@@ -1,0 +1,22 @@
+[
+  {
+    "district": "Trichy",
+    "lat": 10.8155,
+    "long": 78.6965
+  },
+  {
+    "district": "Madurai",
+    "lat": 9.939,
+    "long": 78.1219
+  },
+  {
+    "district": "Chennai",
+    "lat": 13.0674,
+    "long": 80.2376
+  },
+  {
+    "district": "Coimbature",
+    "lat": 11.0045,
+    "long": 76.9616
+  }
+]
